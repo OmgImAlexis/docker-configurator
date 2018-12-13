@@ -1,3 +1,0 @@
-{
-	"plugins": ["babel-plugin-add-module-exports","transform-es2015-modules-commonjs"]
-}
